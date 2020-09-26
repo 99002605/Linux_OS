@@ -3,3 +3,4 @@
 
 ![cppcheck-action](https://github.com/99002605/Linux_OS/workflows/cppcheck-action/badge.svg)
 ![C/C++ CI](https://github.com/99002605/Linux_OS/workflows/C/C++%20CI/badge.svg)
+![C/C++ CI](https://github.com/99002605/Linux_OS/workflows/C/C++%20CI/badge.svg)
