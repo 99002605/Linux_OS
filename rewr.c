@@ -60,7 +60,7 @@ int main()
     for(int i = 0; i < 10; i++) {
         pthread_join(read[i], NULL);
     }
-    for(int i = 0; i < 5; i++) {
+    for(int i = 0; i < 10; i++) {
         pthread_join(write[i], NULL);
     }
 
