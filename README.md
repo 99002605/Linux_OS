@@ -1,4 +1,4 @@
-Reader Writter Problem:
+Reader Writer Problem:
 
 When a database is to be shared among several concurrent processes. Some of these processes may want only to read the database, whereas others may want to update (that is, to read and write) the database. Distinguish between the two types of processes is done by referring to the former as readers and to the latter as writers. If two readers access the shared data simultaneously, no adverse effects will result. However, if a writer and some other process (either a reader or a writer) access the database simultaneously, chaos may ensue.
 
